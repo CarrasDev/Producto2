@@ -1,0 +1,8 @@
+Adaptador de LAN inal mbrica Wi-Fi:
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.13
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.1.1
+Adaptador de Ethernet Ethernet 2:
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
