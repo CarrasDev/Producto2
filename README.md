@@ -40,7 +40,7 @@ Consulta [documentacion/Entregable.pdf](documentacion/Entregable.pdf) para detal
 
 ## Créditos
 
-Proyecto creado por::
+Proyecto creado por:
 
 - Daniel Carrasco ([CarrasDev](https://github.com/CarrasDev))
 
